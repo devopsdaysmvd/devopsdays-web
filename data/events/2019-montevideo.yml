@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/miguel-castro-1bb44b1b/"
     employer: "NetAscom"
     image: "miguelcastro.jpg"
-    bio: "From discret electronic to networking, then to cloud; the unique constant: learning all the time. Not DevOps, but I’m a fan.""
+    bio: "From discret electronic to networking, then to cloud; the unique constant: learning all the time. Not DevOps (yet), but I’m a fan."
 
   - name: "Genry Leyva González"
     twitter: "genrylg"
