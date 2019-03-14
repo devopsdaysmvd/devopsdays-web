@@ -88,6 +88,8 @@ team_members: # Name is the only required field for team members.
     employer: "AT Innovando Juntos"
     github: "everdes-at"
     image: "enriqueverdes.jpg"
+    bio: "Old Linux SysAdmin dog learning new tricks."
+
 
   - name: "Xavier Verdino"
     twitter: "XavierVerdino1"
