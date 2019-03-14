@@ -50,13 +50,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andresantoniuk/"
     gihub: "andresantoniuk"
     image: "andresantoniuk.jpg"
-    bio: "Experienced in making start-ups fail learning how not to repeat same errors. Now enjoying digital transformation in the financial industry."
+    bio: "Experienced in making start-ups fail, learning how not to repeat same errors. Now enjoying digital transformation in the financial industry."
 
   - name: "Miguel Castro"
     twitter: "netascom"
     linkedin: "https://www.linkedin.com/in/miguel-castro-1bb44b1b/"
     employer: "NetAscom"
     image: "miguelcastro.jpg"
+    bio: "From discret electronic to networking, then to cloud; the unique constant: learning all the time. Not DevOps, but I’m a fan.""
 
   - name: "Genry Leyva González"
     twitter: "genrylg"
