@@ -29,18 +29,18 @@ location: "Montevideo, Uruguay" # Defaults to city, but you can make it the venu
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    icon: "microphone"
  # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -50,6 +50,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andresantoniuk/"
     gihub: "andresantoniuk"
     image: "andresantoniuk.jpg"
+    bio: "Experienced in making start-ups fail learning how not to repeat same errors. Now enjoying digital transformation in the financial industry."
 
   - name: "Miguel Castro"
     twitter: "netascom"
@@ -64,6 +65,23 @@ team_members: # Name is the only required field for team members.
     gihub: "genrylg"
     image: "genry-devops.jpg"
 
+  - name: "Pablo Nessi"
+    twitter: "NessiPablo"
+    linkedin: "https://www.linkedin.com/in/pablo-nessi/"
+    #image: "missing"
+
+  - name: "Jorge Pais"
+    twitter: "jpais"
+    linkedin: "https://www.linkedin.com/in/jorgepais/"
+    employer: "Pyxis"
+    #image: "missing"
+
+  - name: "Guillermo Talento"
+    twitter: "gtalentolane"
+    linkedin: "https://www.linkedin.com/in/gtalentolane/"
+    employer: "Insight Latinoamerica"
+    #image: "missing"
+
   - name: "Enrique Verdes"
     twitter: "EnriqueVerdes"
     linkedin: "https://www.linkedin.com/in/enriqueverdes/"
@@ -76,6 +94,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/xavier-verdino-001a9b20/"
     employer: "Pyxis"
     image: "xavierverdino.jpg"
+
 
 organizer_email: "organizers-montevideo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-montevideo-2019@devopsdays.org" # Put your proposal email address here
