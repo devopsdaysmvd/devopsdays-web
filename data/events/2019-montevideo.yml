@@ -13,7 +13,16 @@ enddate:  # The end date of your event. Leave blank if you don't have a venue re
 cfp_date_end: 2019-06-01 # close your call for proposals.
 cfp_date_announce: "open" # inform proposers of status
 
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-03-18T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end:  2019-06-01T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2019-06-17T00:00:00-03:00 # inform proposers of status
+
+
+cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysmvd2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -36,6 +45,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: logo contest
+    icon: "pen"
+    url: "https://goo.gl/forms/BOx2sXlvxSBSfQEK2"
   - name: contact
   - name: conduct
 # - name: example
@@ -127,15 +139,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
-    label: Platinum
+    label: Platino
     max: 3
   - id: gold
-    label: Gold
+    label: Oro
     max: 6
   - id: silver
-    label: Silver
+    label: Plata
     max: 10 # This is the same as omitting the max limit.
   - id: bronze
-    label: Bronze
+    label: Bronce
   - id: community
-    label: Community
+    label: Comunidad
