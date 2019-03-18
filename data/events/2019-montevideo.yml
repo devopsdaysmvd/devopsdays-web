@@ -119,15 +119,15 @@ proposal_email: "proposals-montevideo-2019@devopsdays.org" # Put your proposal e
 sponsors:
   - id: jpos
     level: gold
-  #  url: http://jpos.org/ # Use this if you need to over-ride a sponsor URL.
+  #  url: "http://jpos.org/" # Use this if you need to over-ride a sponsor URL.
 
   - id: pyxis
   #  level: TBD
-  #  url: http://www.pyxisportal.com/ # Use this if you need to over-ride a sponsor URL.
+  #  url: "http://www.pyxisportal.com/" # Use this if you need to over-ride a sponsor URL.
 
   - id: netascom
     level: gold
-  #  url: http://netascom.com/ # Use this if you need to over-ride a sponsor URL.
+  #  url: "http://netascom.com/" # Use this if you need to over-ride a sponsor URL.
 
   #- id: at-uruguay
   #  level: gold
@@ -137,7 +137,11 @@ sponsors:
 
   - id: PowerShellMeetupUY
     level: community
-  #  url: https://www.meetup.com/PowerShell-Meetup-UY/ # Use this if you need to over-ride a sponsor URL.
+  #  url: "https://www.meetup.com/PowerShell-Meetup-UY/" # Use this if you need to over-ride a sponsor URL.
+
+  - id: AzureMontevideoMeetup
+    level: community
+  #  url: "https://www.meetup.com/AzureMontevideo/"
 
 # TBD sponsors
   #- id: elastic
@@ -180,8 +184,9 @@ sponsor_levels:
     max: 6
   - id: silver
     label: Plata
-    max: 10 # This is the same as omitting the max limit.
+    max: 10
   - id: bronze
     label: Bronce
   - id: community
     label: Comunidad
+    # max: 0 # This is the same as omitting the max limit.

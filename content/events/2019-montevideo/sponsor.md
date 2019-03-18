@@ -15,7 +15,7 @@ DevOpsDays es una conferencia organizada por _la comunidad_ de profesionales y d
 
 Los patrocinadores de nivel _Platino_ se le asignará una mesa completa y los patrocinadores de nivel _Oro_ una mesa compartida donde pueden interactuar con aquellos interesados en venir de visita durante los descansos. Todos los participantes son bienvenidos para proponer cualquier tema que deseen durante los espacios abiertos, pero esta es una conferencia centrada en la comunidad, por lo que actividades de promoción comercial explicitas probablemente terminen jugando en contra y no dando una buena impresión en los asistentes.
 
-Se asignará nivel _Comunidad_ a instituciones educativas, meetups y organizaciones de la comunidad que ayuden a promocionar el evento.
+Se asignará nivel _Comunidad_ a instituciones educativas, meetups y organizaciones de la comunidad que ayuden a promocionar el evento. Se publicará logotipo en website del evento.
 
 <style type="text/css">
 	table.tableizer-table {
