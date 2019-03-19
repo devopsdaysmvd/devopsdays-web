@@ -136,17 +136,16 @@ sponsors:
 
 # Comunidad
 # ------------------------------------------------------------------------------
-  - id: PowerShellMeetupUY
+  - id: universidad-ort-uruguay
     level: community
-  #  url: "https://www.meetup.com/PowerShell-Meetup-UY/" # Use this if you need to over-ride a sponsor URL.
 
-  - id: AzureMontevideoMeetup
+  - id: azure-montevideo-meetup
     level: community
-  #  url: "https://www.meetup.com/AzureMontevideo/"
 
-  - id: UniversidadORT
+  - id: powershell-meetup-uy
     level: community
-  #  url:  "https://www.ort.edu.uy/"
+
+
 
 # TBD sponsors
 # ------------------------------------------------------------------------------
