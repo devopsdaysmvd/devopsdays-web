@@ -117,24 +117,25 @@ proposal_email: "proposals-montevideo-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+
+# Platino
+# ------------------------------------------------------------------------------
+
+# Oro
+# ------------------------------------------------------------------------------
   - id: jpos
     level: gold
   #  url: "http://jpos.org/" # Use this if you need to over-ride a sponsor URL.
-
-  - id: pyxis
-  #  level: TBD
-  #  url: "http://www.pyxisportal.com/" # Use this if you need to over-ride a sponsor URL.
 
   - id: netascom
     level: gold
   #  url: "http://netascom.com/" # Use this if you need to over-ride a sponsor URL.
 
-  #- id: at-uruguay
-  #  level: gold
+# Plata
+# ------------------------------------------------------------------------------
 
-  #- id: arnaldocastro
-  #  level: gold
-
+# Comunidad
+# ------------------------------------------------------------------------------
   - id: PowerShellMeetupUY
     level: community
   #  url: "https://www.meetup.com/PowerShell-Meetup-UY/" # Use this if you need to over-ride a sponsor URL.
@@ -143,30 +144,23 @@ sponsors:
     level: community
   #  url: "https://www.meetup.com/AzureMontevideo/"
 
+  - id: UniversidadORT
+    level: community
+  #  url:  "https://www.ort.edu.uy/"
+
 # TBD sponsors
+# ------------------------------------------------------------------------------
+  #- id: pyxis
+  #- id: at-uruguay
+  #- id: arnaldocastro
   #- id: elastic
-  #  level: TBD
-
   #- id: microsoft
-  #  level: TBD
-
   #- id: deloitte
-  #  level: TBD
-
   #- id: dlocal
-  #  level: TBD
-
   #- id: redhat
-  #  level: TBD
-
   #- id: lenovo
-  #  level: TBD
-
   #- id: mercadolibre
-  #  level: TBD
-
   #- id: arkano
-  #  level: TBD
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
