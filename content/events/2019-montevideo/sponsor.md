@@ -37,7 +37,7 @@ Se asignará nivel _Comunidad_ a instituciones educativas, meetups y organizacio
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Sponsor</th><th>Bronce</th><th>Plata</th><th>Oro</th><th>Platino</th></tr></thead><tbody>
  <tr><td>Precio</td><td>USD 350</td><td>USD 1000</td><td>USD 3000</td><td>USD 5000</td></tr>
- <tr><td>Cupos</td><td>ilimitado</td><td>10</td><td>6</td><td>3</td></tr>
+ <tr><td>Máximo de sponsors en el nivel</td><td>ilimitado</td><td>10</td><td>6</td><td>3</td></tr>
  <tr><td>Entradas incluidas</td><td>1</td><td>2</td><td>3</td><td>5</td></tr>
  <tr><td>Mesa compartida</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td><td>&nbsp;</td></tr>
  <tr><td>Mesa individual</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td></tr>
