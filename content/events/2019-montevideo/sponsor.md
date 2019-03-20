@@ -42,7 +42,7 @@ Se asignará nivel _Comunidad_ a instituciones educativas, meetups y organizacio
  <tr><td>Mesa compartida</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td><td>&nbsp;</td></tr>
  <tr><td>Mesa individual</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td></tr>
  <tr><td>Elección de lugar de la mesa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td></tr>
- <tr><td>Logo en website del evento</td><td>chico</td><td>mediano</td><td>mediano</td><td>grande</td></tr>
+ <tr><td>Logo en website del evento</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
  <tr><td>Logo en slides rotativos compartidos durante el evento</td><td>chico</td><td>mediano</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Logo en slides rotativos individuales durante el evento</td><td>&nbsp;</td><td>&nbsp;</td><td>mediano</td><td>grande</td></tr>
  <tr><td>Logo en comunicaciones por e-mail</td><td>&nbsp;</td><td>&nbsp;</td><td>mediano</td><td>grande</td></tr>
