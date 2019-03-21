@@ -171,16 +171,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
-    label: Platino
+    label: Platinum
     max: 3
   - id: gold
-    label: Oro
+    label: Gold
     max: 6
   - id: silver
-    label: Plata
+    label: Silver
     max: 10
   - id: bronze
-    label: Bronce
+    label: Bronze
   - id: community
-    label: Comunidad
+    label: Community
     # max: 0 # This is the same as omitting the max limit.
