@@ -1,10 +1,9 @@
 +++
 Title = "Camila Serena"
-Twitter = ""
+Twitter = "caamiserena"
 image = ""
 type = "speaker"
 linktitle = "camila-serena"
-
 +++
 
 

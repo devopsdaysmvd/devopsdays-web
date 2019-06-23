@@ -1,10 +1,10 @@
 +++
 Title = "Ernesto R. Corona"
 Twitter = "rnest"
+Linkedin = "http://www.linkedin.com/in/ecorona"
 image = ""
 type = "speaker"
 linktitle = "ernesto-r-corona"
-
 +++
 
 Agilista, músico, desarrollador de software, a veces escritor, pero por sobre todas las cosas, eterno aprendiz.

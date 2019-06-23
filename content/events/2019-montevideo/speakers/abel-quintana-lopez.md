@@ -1,6 +1,7 @@
 +++
 Title = "Abel Quintana Lopez"
 Twitter = "beloquintana"
+Linkedin = "https://www.linkedin.com/in/abel-quintana-lopez-371a31b9/"
 image = ""
 type = "speaker"
 linktitle = "abel-quintana-lopez"

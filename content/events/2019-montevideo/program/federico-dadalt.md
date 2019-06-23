@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevSecOps - Evolucionando las respuestas a los riesgos existentes"
 Type = "talk"
-Speakers = ["federico-dadalt"]
+Speakers = ["federico-dadalt", "matias-davyt"]
 +++
 
 En esta charla en particular, Federico estará presentando las tendencias de Deloitte para 2019 para DevOps y cómo las organizaciones pueden aprovechar esta metodología para elevar, incorporar y evolucionar sus respuestas a los riesgos existentes.
