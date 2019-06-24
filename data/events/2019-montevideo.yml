@@ -266,77 +266,85 @@ program:
     date: 2019-08-21
     start_time: "09:00"
     end_time: "09:40"
+
   - title: "donovan-brown"
     type: talk
     date: 2019-08-21
     start_time: "09:40"
     end_time: "10:20"
-  - title: "Sponsors"
-    type: sponsor
+
+ # - title: "Sponsors"
+ #   type: sponsor
+ #   date: 2019-08-21
+ #   start_time: "10:25"
+ #   end_time: "10:30"
+    
+
+  - title: "Cofee Break"
+    type: break
     date: 2019-08-21
-    start_time: "10:25"
-    end_time: "10:25"
+    start_time: "10:30"
+    end_time: "11:15"
+
   - title: "ernesto-r-corona"
     type: talk
     date: 2019-08-21
-    start_time: "10:35"
-    end_time: "11:05"
-
-  - title: "BREAK"
-    type: break
-    date: 2019-08-21
-    start_time: "11:05"
-    end_time: "11:55"
+    start_time: "11:15"
+    end_time: "11:45"
 
   - title: "federico-dadalt"
     type: talk
     date: 2019-08-21
-    start_time: "11:55"
-    end_time: "12:30"
+    start_time: "11:45"
+    end_time: "12:15"
+
   - title: "fernando-maidana"
     type: talk
     date: 2019-08-21
-    start_time: "12:30"
-    end_time: "13:05"
+    start_time: "12:15"
+    end_time: "12:45"
 
   - title: "LUNCH"
     type: lunch
     date: 2019-08-21
-    start_time: "13:05"
+    start_time: "13:00"
     end_time: "14:30"
 
   - title: "andres-plaza"
     type: talk
     date: 2019-08-21
     start_time: "14:30"
-    end_time: "15:05"
+    end_time: "15:00"
+
   - title: "adrian-toledo"
     type: talk
     date: 2019-08-21
-    start_time: "15:05"
-    end_time: "15:40"
+    start_time: "15:00"
+    end_time: "15:30"
 
-  - title: "BREAK"
+  - title: "Coffee Break"
     type: break
     date: 2019-08-21
-    start_time: "15:40"
-    end_time: "16:25"
+    start_time: "15:30"
+    end_time: "16:15"
 
   - title: "ricardo-medina"
     type: talk
     date: 2019-08-21
-    start_time: "16:25"
-    end_time: "17:00"
-  - title: "Sponsors"
-    type: sponsor
-    date: 2019-08-21
-    start_time: "17:00"
-    end_time: "17:10"
+    start_time: "16:15"
+    end_time: "16:45"
+
+ # - title: "Sponsors"
+ #   type: sponsor
+ #   date: 2019-08-21
+ #   start_time: "17:00"
+ #   end_time: "17:10"
+ 
   - title: "shlomo-swidler"
     type: talk
     date: 2019-08-21
-    start_time: "17:10"
-    end_time: "18:00"
+    start_time: "17:00"
+    end_time: "17:40"
 
 
 # Day 2
@@ -351,75 +359,82 @@ program:
     date: 2019-08-22
     start_time: "09:00"
     end_time: "09:40"
-  - title: "Sponsors"
-    type: sponsor
-    date: 2019-08-22
-    start_time: "09:40"
-    end_time: "09:50"
+
+ # - title: "Sponsors + gold"
+ #   type: sponsor
+ #   date: 2019-08-22
+ #   start_time: "09:40"
+ #   end_time: "09:50"
+ 
   - title: "abel-quintana-lopez"
     type: talk
     date: 2019-08-22
-    start_time: "09:50"
-    end_time: "10:25"
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Cofee Break"
+    type: break
+    date: 2019-08-22
+    start_time: "10:30"
+    end_time: "11:15"
+
   - title: "camila-serena"
     type: talk
     date: 2019-08-22
-    start_time: "10:25"
-    end_time: "11:00"
-
-  - title: "BREAK"
-    type: break
-    date: 2019-08-22
-    start_time: "11:00"
+    start_time: "11:15"
     end_time: "11:45"
-
 
   - title: "gabriel-moskovicz"
     type: talk
     date: 2019-08-22
     start_time: "11:45"
-    end_time: "12:20"
-  - title: "talk"
+    end_time: "12:15"
+
+  - title: "gaston-milano"
     type: talk
     date: 2019-08-22
-    start_time: "12:20"
-    end_time: "12:55"
+    start_time: "12:15"
+    end_time: "12:45"
 
   - title: "LUNCH"
     type: lunch
     date: 2019-08-22
-    start_time: "12:55"
+    start_time: "13:00"
     end_time: "14:30"
 
   - title: "gonzalo-lopez-grassi"
     type: talk
     date: 2019-08-22
     start_time: "14:30"
-    end_time: "15:05"
-  - title: "talk"
+    end_time: "15:00"
+
+  - title: "enrique-carbonell"
     type: talk
     date: 2019-08-22
-    start_time: "15:05"
-    end_time: "15:40"
+    start_time: "15:00"
+    end_time: "15:30"
 
-  - title: "BREAK"
+  - title: "Coffee Break"
     type: break
     date: 2019-08-22
-    start_time: "15:40"
-    end_time: "15:25"
+    start_time: "15:30"
+    end_time: "16:00"
 
-  - title: "talk"
+  - title: "Open Spaces + Ignites"
+    type: open-space
+    date: 2019-08-22
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "guillermo-chao"
     type: talk
     date: 2019-08-22
-    start_time: "16:25"
-    end_time: "17:00"
-  - title: "talk"
-    type: talk
-    date: 2019-08-22
-    start_time: "17:00"
-    end_time: "17:35"
+    start_time: "16:45"
+    end_time: "17:15"
+
   - title: "jessica-deen"
     type: talk
     date: 2019-08-22
-    start_time: "17:35"
-    end_time: "18:05"
+    start_time: "17:15"
+    end_time: "18:00"
+  
