@@ -1,7 +1,8 @@
 +++
 Title = "Guillermo Chao"
-Twitter = ""
+Twitter = "Mefistos0"
 Linkedin = ""
+Github = "https://github.com/cumanachao"
 image = "guillermo-chao.png"
 type = "speaker"
 linktitle = "guillermo-chao"
