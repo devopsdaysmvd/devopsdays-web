@@ -2,7 +2,7 @@
 Title = "Adrián Toledo"
 Twitter = "adriantoledo76"
 Linkedin = "https://www.linkedin.com/in/toledoadrian"
-image = ""
+image = "adrian-toledo.png"
 type = "speaker"
 linktitle = "adrian-toledo"
 +++

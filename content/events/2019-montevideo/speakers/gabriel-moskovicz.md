@@ -2,7 +2,7 @@
 Title = "Gabriel Moskovicz"
 Twitter = "gmoskovicz"
 Linkedin = "https://www.linkedin.com/in/gabriel-moskovicz-2b2b602a"
-image = ""
+image = "gabriel-moskovicz.png"
 type = "speaker"
 linktitle = "gabriel-moskovicz"
 +++

@@ -1,7 +1,8 @@
 +++
 Title = "Shlomo Swidler"
 Twitter = "shlomoswidler"
-image = ""
+Linkedin = "https://www.linkedin.com/in/shlomoswidler"
+image = "shlomo-swidler.png"
 type = "speaker"
 linktitle = "shlomo-swidler"
 

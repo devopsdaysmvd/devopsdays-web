@@ -1,7 +1,7 @@
 +++
 Title = "Andres Plaza"
 Twitter = "AndresPlazaR"
-image = ""
+image = "andres-plaza.png"
 type = "speaker"
 linktitle = "andres-plaza"
 +++

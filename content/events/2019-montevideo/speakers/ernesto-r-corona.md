@@ -2,7 +2,7 @@
 Title = "Ernesto R. Corona"
 Twitter = "rnest"
 Linkedin = "http://www.linkedin.com/in/ecorona"
-image = ""
+image = "ernesto-r-corona.png"
 type = "speaker"
 linktitle = "ernesto-r-corona"
 +++

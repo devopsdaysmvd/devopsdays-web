@@ -1,7 +1,7 @@
 +++
 Title = "Gonzalo López Grassi"
 Twitter = "sietevecesmal"
-image = ""
+image = "gonzalo-lopez-grassi.png"
 type = "speaker"
 linktitle = "gonzalo-lopez-grassi"
 

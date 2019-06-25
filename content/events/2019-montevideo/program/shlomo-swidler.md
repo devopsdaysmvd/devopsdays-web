@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Lenovo talk"
+Title = "Keynote Shlomo Swidler"
 Type = "talk"
 Speakers = ["shlomo-swidler"]
 +++

@@ -2,7 +2,7 @@
 Title = "Gastón Milano"
 Twitter = "gmilano"
 Linkedin = "https://www.linkedin.com/in/gastonmilano"
-image = ""
+image = "gaston-milano.png"
 type = "speaker"
 linktitle = "gaston-milano"
 +++

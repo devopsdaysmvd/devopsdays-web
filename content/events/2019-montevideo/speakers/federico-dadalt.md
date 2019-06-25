@@ -2,7 +2,7 @@
 Title = "Federico Dadalt"
 Twitter = "federicodadalt"
 Linkedin = "https://www.linkedin.com/in/fdadalt/"
-image = ""
+image = "federico-dadalt.png"
 type = "speaker"
 linktitle = "federico-dadalt"
 +++

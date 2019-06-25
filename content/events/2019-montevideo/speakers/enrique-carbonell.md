@@ -2,7 +2,7 @@
 Title = "Enrique Carbonell"
 Twitter = "kikicarbonell"
 Linkedin = "https://www.linkedin.com/in/enrique-carbonell/"
-image = ""
+image = "enrique-carbonell.png"
 type = "speaker"
 linktitle = "enrique-carbonell"
 +++
