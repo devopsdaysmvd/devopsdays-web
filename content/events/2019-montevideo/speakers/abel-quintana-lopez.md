@@ -8,4 +8,4 @@ linktitle = "abel-quintana-lopez"
 
 +++
 
-I am Software Engineer with more than 10 years experience in analysis, design, development and quality software. Knowledge of object oriented programming, design patterns, software engineering, agile methodologies and software life cycle.
+Abel es Ingeniero de Software con más de 10 años de experiencia en análisis, diseño, desarrollo y calidad del software. En los últimos años ha formado parte de equipos ágiles especializándose en la automatización de pruebas en los diferentes niveles de la pirámide ágil de testing. Ha dictado cursos de pruebas automatizadas y ha participado en eventos impartiendo talleres y charlas. Actualmente se encuentra trabajando como SDET(Software Developer Engineer in Test) en Travelgenio donde ha desarrollado herramientas para automatizar pruebas y ha definido la arquitectura de frameworks de automatización.
